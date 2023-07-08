@@ -26,6 +26,9 @@ Our website handles various types of errors, including:
 
 If users continue to encounter errors or need assistance, they are encouraged to contact our support team. The error page provides contact information, such as a phone number or email address, where users can reach out for help. Our support team is dedicated to resolving any issues promptly and providing assistance to users.
 
+
 We strive to make the error page as informative and user-friendly as possible, ensuring that our users are aware of the issue and can take appropriate actions or seek assistance when needed😊.
+<img width="1440" alt="Screenshot 2023-07-08 at 7 08 32 PM" src="https://github.com/mk016/ERROR_PAGE/assets/117855423/5e5b7690-348b-4054-9ab8-eb4f86a06c32">
+
 
 Feel free to customize this information based on your specific website and the types of errors you handle.
